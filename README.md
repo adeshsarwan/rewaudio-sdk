@@ -1,5 +1,5 @@
 # Rewaudio-sdk
-This is an audio ad unit which helps publishers add audio ads in their Aps. Audio has a 20x more value than the banner Ads. This creates a great opportunity for the advertisers to gernerate higher ARPU.
+This is an audio ad unit which helps publishers add audio ads in their Aps. Audio has a 5-10x more value than the banner Ads. This creates a great opportunity for the advertisers to gernerate higher ARPU.
 We have developed Rewaudio SDK for Android OS. This SDK can be used by publishers to render audio banners in their applications. [Demo Video](https://drive.google.com/file/d/1KpltJnMTtqgzm8qsgbHYkIY5y5eK0Yb1/view) to see Rewaudio audio ads in action 
 ## Integrate SDK
 ### Gradle Dependencies
