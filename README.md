@@ -118,19 +118,21 @@ Click New ad unit. Enter appropriate name and code. Choose Size mode Fixed. Mast
 
 Navigate to Delivery>>Orders. 
 ![GAM Create New Order](https://lh5.googleusercontent.com/tgdqXH7MaSXngdW-VHkBaIJyLz5GVPrSn6UYQFROoMTbjJrOTEP2x-W3u0qeSKYmt_Q=w2400)
+Create new company for Rewaudio
 ![GAM Create New Company](https://lh6.googleusercontent.com/uQA31Kw6Um3fueqJ-I_RNfEE6PVbXMONyBzaFO3_8TKkDo8xo3Nh7-X_1fjnIkRz6tU=w2400)
-![Save Order](https://lh4.googleusercontent.com/LYrzeXonKzfsddUssD3tGzLw63_rI3gMaSidFmV6ajyKkitQQ3ZyGE1CZaJcFR5Y-co=w2400)
-
 Enter your order information in the appropriate fields and Save the order
+![Save Order](https://lh4.googleusercontent.com/LYrzeXonKzfsddUssD3tGzLw63_rI3gMaSidFmV6ajyKkitQQ3ZyGE1CZaJcFR5Y-co=w2400)
 
 ##### Step 3: Create new Line Item
 
 Click Add new line item from the above created orders page. Choose the type as Audio/Video.
 ![Choose Line Item Type](https://lh6.googleusercontent.com/C0z4x51pZB7yLxByVjj5mc87jLvKEclq86_sTXkv2TQSy7Gjiid4DW2W2W-CQ9iTMlA=w2400)
+Enter name and choose Line Item Type as standard with priority Normal. Choose creative size as audio and banner size as 320x50
 ![Enter Required fields](https://lh6.googleusercontent.com/uCiNb8w9Cz_in2E5KbXQAJMv0jcH2i_r7ldCoo8SiMcazW555n-NkBFXrtYI-wSrOss=w2400)
+Enter the start date as immediate and end date 1 year from start date. Enter the quantity as 100Mn and rate as discussed.
 ![enter start end date and goal](https://lh6.googleusercontent.com/RWcnWJLEX-kDc6jU6fPpkxbrvlFPd_cOU7ewj5i-HWDjPzuIFYjDHfnW1hI1k6r6frY=w2400)
-![target the newly create ad unit](https://lh4.googleusercontent.com/3lwD0bpDR55oxY7rojco8uyvhojfEcdanDEW_FiJ25BtNqVXfhIzs7aV362mUW1MWSw=w2400)
 Choose the Ad unit created in Step 1 in the ad unit targeting 
+![target the newly create ad unit](https://lh4.googleusercontent.com/3lwD0bpDR55oxY7rojco8uyvhojfEcdanDEW_FiJ25BtNqVXfhIzs7aV362mUW1MWSw=w2400)
 
 Save the Line Item
 
