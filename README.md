@@ -106,19 +106,29 @@ Example [Audio VAST Tag URL](https://pubads.g.doubleclick.net/gampad/ads?iu=/217
 
 #### Settings in GAM server
 Login with your credentials in [Google Ad Manager](https://admanager.google.com/)
+
 Step 1: Create a new Ad Unit in GAM. 
+
 Navigate to Inventory. Ad units.
+
 Click New ad unit.
 ![GAM Create New Ad Unit](https://lh4.googleusercontent.com/-6dXbnLd2IdqIb035eYBK0c80FngYiH4lqMEp4qVhReiBYHqgwqSiMlFhUqeqw3i9zA=w2400)
 
 Step 2: Add new order for Rewaudio
-Navigate to Delivery. Orders.
-![Click New order](https://lh4.googleusercontent.com/3lwD0bpDR55oxY7rojco8uyvhojfEcdanDEW_FiJ25BtNqVXfhIzs7aV362mUW1MWSw=w2400)
-(https://lh4.googleusercontent.com/DqdTlSxi7prY6qaOLGxipyE3binVtONx0Yc87ku8KfrYXpB06COmqk9hB1PsXF4ZqDw=w2400)
-Enter your order information in the appropriate fields.
+
+Navigate to Delivery>>Orders.
+![GAM Create New Order](https://lh5.googleusercontent.com/tgdqXH7MaSXngdW-VHkBaIJyLz5GVPrSn6UYQFROoMTbjJrOTEP2x-W3u0qeSKYmt_Q=w2400)
+![GAM Create New Company](https://lh6.googleusercontent.com/uQA31Kw6Um3fueqJ-I_RNfEE6PVbXMONyBzaFO3_8TKkDo8xo3Nh7-X_1fjnIkRz6tU=w2400)
+![Save Order](https://lh4.googleusercontent.com/LYrzeXonKzfsddUssD3tGzLw63_rI3gMaSidFmV6ajyKkitQQ3ZyGE1CZaJcFR5Y-co=w2400)
+
+Enter your order information in the appropriate fields and Save the order
 
 Step 3: Create new Line Item
-Click Add line item
 
+Click Add new line item from the above created orders page.
+![Choose Line Item Type](https://lh6.googleusercontent.com/C0z4x51pZB7yLxByVjj5mc87jLvKEclq86_sTXkv2TQSy7Gjiid4DW2W2W-CQ9iTMlA=w2400)
+![Enter Required fields](https://lh6.googleusercontent.com/uCiNb8w9Cz_in2E5KbXQAJMv0jcH2i_r7ldCoo8SiMcazW555n-NkBFXrtYI-wSrOss=w2400)
+![target the newly create ad unit](https://lh6.googleusercontent.com/uCiNb8w9Cz_in2E5KbXQAJMv0jcH2i_r7ldCoo8SiMcazW555n-NkBFXrtYI-wSrOss=w2400)
+Choose the Ad unit created in Step 1 in the ad unit targeting 
 Step 4: Add New Creative
 Click Add Creative
