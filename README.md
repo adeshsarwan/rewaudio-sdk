@@ -105,7 +105,20 @@ Rewaudio SDK also has IMA SDK integrated inside it which is used to get indirect
 Example [Audio VAST Tag URL](https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/audio-preroll&ad_type=audio&sz=1x1&ciu_szs=300x250&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=)
 
 #### Settings in GAM server
-Step 1: Create a new Ad Unit in GAM
+Login with your credentials in [Google Ad Manager](https://admanager.google.com/)
+Step 1: Create a new Ad Unit in GAM. 
+Navigate to Inventory. Ad units.
+Click New ad unit.
 ![GAM Create New Ad Unit](https://lh4.googleusercontent.com/-6dXbnLd2IdqIb035eYBK0c80FngYiH4lqMEp4qVhReiBYHqgwqSiMlFhUqeqw3i9zA=w2400)
 
-Step 2: From GAM Connect the Ad Unit to the AdX Line Item for Audio demand
+Step 2: Add new order for Rewaudio
+Navigate to Delivery. Orders.
+![Click New order](https://lh4.googleusercontent.com/3lwD0bpDR55oxY7rojco8uyvhojfEcdanDEW_FiJ25BtNqVXfhIzs7aV362mUW1MWSw=w2400)
+(https://lh4.googleusercontent.com/DqdTlSxi7prY6qaOLGxipyE3binVtONx0Yc87ku8KfrYXpB06COmqk9hB1PsXF4ZqDw=w2400)
+Enter your order information in the appropriate fields.
+
+Step 3: Create new Line Item
+Click Add line item
+
+Step 4: Add New Creative
+Click Add Creative
